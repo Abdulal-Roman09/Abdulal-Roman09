@@ -36,3 +36,9 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulal-Roman09&layout=compact&theme=default" width="48%" />
 
 </div>
+## 📌 Featured Projects
+
+- [Parcel Delivery App](https://github.com/Programming-Hero-Web-Course4/b11a11-client-side-Abdulal-noman) – A MERN-based parcel delivery solution  
+- [Tourism Website](https://github.com/your-repo/tourism) – React-based travel website with Firebase Auth  
+- [Fullstack Blog App](https://github.com/your-repo/blog-app) – Blog system using Node.js, MongoDB & Express
+
