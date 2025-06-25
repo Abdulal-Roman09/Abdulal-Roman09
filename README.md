@@ -36,6 +36,6 @@
 ## 📌 Featured Projects
 
 - [New Portal  App](https://github.com/Abdulal-Roman09/TheDrogonNews) –   
-- [Tourism Website](https://github.com/your-repo/tourism) – React-based travel website with Firebase Auth  
-- [Fullstack Blog App](https://github.com/your-repo/blog-app) – Blog system using Node.js, MongoDB & Express
+- [Tourism Website](:https://github.com/Programming-Hero-Web-Course4/b11a11-client-side-Abdulal-noman) – React-based travel website with Firebase Auth  
+- [Fullstack Blog App](https://github.com/Programming-Hero-Web-Course4/b11a10-client-side-Abdulal-noman) – Blog system using Node.js, MongoDB & Express
 
