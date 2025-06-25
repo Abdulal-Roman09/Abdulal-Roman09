@@ -35,7 +35,7 @@
 </div>
 ## 📌 Featured Projects
 
-- [Parcel Delivery App](https://github.com/Programming-Hero-Web-Course4/b11a11-client-side-Abdulal-noman) – A MERN-based parcel delivery solution  
+- [New Portal  App](https://github.com/Abdulal-Roman09/TheDrogonNews) –   
 - [Tourism Website](https://github.com/your-repo/tourism) – React-based travel website with Firebase Auth  
 - [Fullstack Blog App](https://github.com/your-repo/blog-app) – Blog system using Node.js, MongoDB & Express
 
