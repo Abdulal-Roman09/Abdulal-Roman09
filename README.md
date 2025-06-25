@@ -35,7 +35,7 @@
 </div>
 ## 📌 Featured Projects
 
-- [New Portal  App](https://github.com/Abdulal-Roman09/TheDrogonNews) –   
-- [Tourism Website](:https://github.com/Programming-Hero-Web-Course4/b11a11-client-side-Abdulal-noman) – React-based travel website with Firebase Auth  
-- [Fullstack Blog App](https://github.com/Programming-Hero-Web-Course4/b11a10-client-side-Abdulal-noman) – Blog system using Node.js, MongoDB & Express
+- [New Portal App](https://github.com/Abdulal-Roman09/TheDrogonNews) – A modern news portal built with React and latest web technologies.
+- [Product Recommendation Site](https://github.com/Programming-Hero-Web-Course4/b11a11-client-side-Abdulal-noman) – React-based travel website with Firebase Authentication.
+- [Salad Restaurant App Client](https://github.com/Programming-Hero-Web-Course4/b11a10-client-side-Abdulal-noman) – Restaurant blog and ordering system using Node.js, Express, and MongoDB.
 
