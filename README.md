@@ -64,19 +64,20 @@
 ## 📌 Featured Projects
 
 ### 🏨 [Hostel Management App](https://golden-pegasus-af7e4b.netlify.app/)  
-A full-featured hostel management system that helps manage meals, memberships, and payments with a clean and intuitive interface.
+A comprehensive hostel management system designed to streamline meal planning, membership tracking, and payment processing. Built with a clean, responsive interface focusing on user-friendly navigation. Features include real-time meal updates, secure payment integration, and role-based dashboards for efficient management by hostel administrators and residents.
 
 ---
 
 ### 🌍 [Product Recommendation Site](https://b11-a11.netlify.app/)  
-A React-based travel website with Firebase Authentication, allowing users to post queries, give recommendations, and manage personalized dashboards.
+An interactive React-based travel platform where users can post queries, share personalized recommendations, and manage profiles securely using Firebase Authentication. The site emphasizes real-time updates and dynamic dashboards to foster an engaged traveler community.
 
 ---
 
 ### 🥗 [Salad Restaurant App Client](https://whimsical-jelly-bedd51.netlify.app/)  
-A restaurant blog and ordering platform built with Node.js, Express, and MongoDB, featuring menu management and customer review functionalities.
+A modern restaurant blog and ordering platform built with Node.js, Express, and MongoDB. Features include comprehensive menu management, customer reviews, and an intuitive ordering system designed to provide an engaging user experience and efficient backend management for restaurant owners.
 
 ---
+
 
 ### 📫 How to reach me:
 
