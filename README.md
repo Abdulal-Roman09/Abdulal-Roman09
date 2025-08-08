@@ -9,6 +9,8 @@
 🌱 Currently learning MERN Stack  
 💼 Looking to collaborate on real-world MERN projects  
 📫 Reach me at: abdulal.roman09@gmail.com
+📱 Phone: +8801843860436
+🔗 LinkedIn: [Abdul Al Roman](https://www.linkedin.com/in/abdul-al-roman09/) 
 
 ### 🔭 Current Activities
 - 🚀 Exploring Next.js  
