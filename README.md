@@ -55,8 +55,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdulal-Roman09&show_icons=true&theme=default" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulal-Roman09&layout=compact&theme=default" width="48%" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulal-Roman09&layout=compact&theme=default" width="100%" />
 </p>
 
 ---
