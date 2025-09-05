@@ -1,47 +1,66 @@
+
 ## 👨‍💻 About Me
+
 <p align="center">
-  <img src="https://i.ibb.co/Y7HW00bD/wp8903933-mern-stack-wallpapers.jpg" alt="GitHub Banner" />
+  <img
+    src="https://i.ibb.co/Y7HW00bD/wp8903933-mern-stack-wallpapers.jpg"
+    alt="GitHub Banner"
+  />
 </p>
 
 ### 👋 Hi there, I'm Abdul Al Roman
-
 🎓 BSc in CSE | Faridpur Engineering College  
 🌱 Currently learning MERN Stack  
 💼 Looking to collaborate on real-world MERN projects  
 📫 Reach me at: [abdulal.roman09@gmail.com](mailto:abdulal.roman09@gmail.com)  
 📱 Phone: +8801843860436  
-🔗 LinkedIn: [Abdul Al Roman](https://www.linkedin.com/in/abdul-al-roman09/)  
+🔗 LinkedIn: [Abdul Al Roman](https://www.linkedin.com/in/abdul-al-roman09/)
 
 ### 🔭 Current Activities
-- 🚀 Exploring Next.js  
-- 🌍 Working on a tourism website  
+- 🚀 Exploring Next.js
+- 🌍 Working on a tourism website
 
----
-<h2 align="center">⚡ GitHub Stats ⚡</h2>
-<br>
+<h2>⚡ GitHub Stats ⚡</h2>
+<br />
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+<!-- Container for stats side by side -->
+<div align="center">
 
   <!-- GitHub Streak -->
   <a href="https://git.io/streak-stats">
-    <img width="390" height="200" src="https://streak-stats.demolab.com/?user=Abdulal-Roman09&theme=dark" alt="GitHub Streak" />
+    <img
+      src="https://streak-stats.demolab.com/?user=Abdulal-Roman09&theme=dark"
+      width="450" 
+      height="550"
+      alt="GitHub Streak"
+      style="margin-right: 30px;"
+    />
   </a>
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <!-- Top Languages -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width="390" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulal-Roman09&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" alt="Top Languages" />
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulal-Roman09&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5"
+      width="350"
+      height="400"
+      alt="Top Languages"
+    />
   </a>
 
 </div>
 
-<br>
 
-<!-- Contribution Graph -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdulal-Roman09&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" alt="GitHub Contribution Graph"/>
-</div>
+<br />
 
-<hr>
+<!-- Contribution Graph centered -->
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Abdulal-Roman09&theme=react-dark&bg_color=20232a&hide_border=true"
+    width="100%"
+    alt="GitHub Contribution Graph"
+  />
+</p>
+
 
 ## 🛠️ Things I Code With
 
