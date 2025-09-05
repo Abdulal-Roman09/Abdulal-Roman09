@@ -51,15 +51,45 @@
 ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify&logoColor=white&style=flat-square) <br>
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white&style=flat-square)  
 
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulal-Roman09&layout=compact&theme=default" width="60%" />
-</p>
-
 ---
+
+<h2 align="center">⚡ GitHub Stats ⚡</h2>
+<br>
+
+<div align="center">
+
+  <!-- GitHub Streak -->
+  <a href="https://git.io/streak-stats">
+    <img align="left" width="390" src="https://streak-stats.demolab.com/?user=Abdulal-Roman09&theme=dark" alt="GitHub Streak" />
+  </a>
+
+  <!-- GitHub Stats -->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="right" width="390" src="https://github-readme-stats.vercel.app/api?username=Abdulal-Roman09&show_icons=true&theme=react&border_color=61dafb&hide_border=true" alt="GitHub Stats" />
+  </a>
+
+</div>
+
+<br><br><br><br>
+
+<div align="center">
+
+  <!-- Top Languages -->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulal-Roman09&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" alt="Top Languages" />
+  </a>
+
+</div>
+
+<br>
+
+<!-- Contribution Graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdulal-Roman09&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" alt="GitHub Contribution Graph"/>
+</div>
+
+<hr>
+----
 
 ## 📌 Featured Projects
 
