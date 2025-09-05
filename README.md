@@ -8,22 +8,41 @@
 🎓 BSc in CSE | Faridpur Engineering College  
 🌱 Currently learning MERN Stack  
 💼 Looking to collaborate on real-world MERN projects  
-📫 Reach me at: abdulal.roman09@gmail.com
-📱 Phone: +8801843860436
-🔗 LinkedIn: [Abdul Al Roman](https://www.linkedin.com/in/abdul-al-roman09/) 
+📫 Reach me at: [abdulal.roman09@gmail.com](mailto:abdulal.roman09@gmail.com)  
+📱 Phone: +8801843860436  
+🔗 LinkedIn: [Abdul Al Roman](https://www.linkedin.com/in/abdul-al-roman09/)  
 
 ### 🔭 Current Activities
 - 🚀 Exploring Next.js  
 - 🌍 Working on a tourism website  
 
 ---
-
-
-
 <h2 align="center">⚡ GitHub Stats ⚡</h2>
 <br>
 
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+
+  <!-- GitHub Streak -->
+  <a href="https://git.io/streak-stats">
+    <img width="390" height="200" src="https://streak-stats.demolab.com/?user=Abdulal-Roman09&theme=dark" alt="GitHub Streak" />
+  </a>
+
+  <!-- Top Languages -->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img width="390" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulal-Roman09&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" alt="Top Languages" />
+  </a>
+
+</div>
+
+<br>
+
+<!-- Contribution Graph -->
 <div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdulal-Roman09&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" alt="GitHub Contribution Graph"/>
+</div>
+
+<hr>
+
 ## 🛠️ Things I Code With
 
 **Frontend:**  
@@ -38,53 +57,18 @@
 **Tools & Platforms:**  
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat-square) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat-square) ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify&logoColor=white&style=flat-square) ![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white&style=flat-square) ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat-square) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square) ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat-square) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat-square)
 
-  <!-- GitHub Streak -->
-  <a href="https://git.io/streak-stats">
-    <img align="left" width="390" src="https://streak-stats.demolab.com/?user=Abdulal-Roman09&theme=dark" alt="GitHub Streak" />
-  </a>
-
-  <!-- GitHub Stats -->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="right" width="390" src="https://github-readme-stats.vercel.app/api?username=Abdulal-Roman09&show_icons=true&theme=react&border_color=61dafb&hide_border=true" alt="GitHub Stats" />
-  </a>
-
-</div>
-
-<br><br><br><br>
-
-<div align="center">
-
-  <!-- Top Languages -->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulal-Roman09&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" alt="Top Languages" />
-  </a>
-
-</div>
-
-<br>
-
-<!-- Contribution Graph -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdulal-Roman09&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" alt="GitHub Contribution Graph"/>
-</div>
-
-<hr>
-----
+---
 
 ## 📌 Featured Projects
 
 ### 🏨 [Hostel Management App](https://golden-pegasus-af7e4b.netlify.app/)  
-A comprehensive hostel management system designed to streamline meal planning, membership tracking, and payment processing. Built with a clean, responsive interface focusing on user-friendly navigation. Features include real-time meal updates, secure payment integration, and role-based dashboards for efficient management by hostel administrators and residents.
-
----
+A comprehensive hostel management system for meal planning, membership tracking, and payments. Features real-time updates, secure payment integration, and role-based dashboards.
 
 ### 🌍 [Product Recommendation Site](https://b11-a11.netlify.app/)  
-An interactive React-based travel platform where users can post queries, share personalized recommendations, and manage profiles securely using Firebase Authentication. The site emphasizes real-time updates and dynamic dashboards to foster an engaged traveler community.
-
----
+Interactive React-based travel platform with query posting, personalized recommendations, dynamic dashboards, and secure Firebase authentication.
 
 ### 🥗 [Salad Restaurant App Client](https://whimsical-jelly-bedd51.netlify.app/)  
-A modern restaurant blog and ordering platform built with Node.js, Express, and MongoDB. Features include comprehensive menu management, customer reviews, and an intuitive ordering system designed to provide an engaging user experience and efficient backend management for restaurant owners.
+Modern restaurant blog & ordering platform built with Node.js, Express, and MongoDB. Features menu management, customer reviews, and intuitive ordering system.
 
 ---
 
@@ -98,4 +82,3 @@ A modern restaurant blog and ordering platform built with Node.js, Express, and 
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
-
