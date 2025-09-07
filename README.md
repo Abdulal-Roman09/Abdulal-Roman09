@@ -18,7 +18,7 @@
 
 <h2 align="center">🚀 About Me
 </h2>
-<img align="right" alt="Coding" width="500" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="40%" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ### 👨‍💻 **Full Stack Developer | MERN Enthusiast**
 
@@ -110,11 +110,12 @@
 
 ### 🏨 [Hostel Management System](https://golden-pegasus-af7e4b.netlify.app/)
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://golden-pegasus-af7e4b.netlify.app/)  
+[![Live Demo](https://img.shields.io/badge/Live_Demo-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://golden-pegasus-af7e4b.netlify.app/) &nbsp;&nbsp;
 [![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](#)
 
-**🔧 Tech Stack:**  
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,firebase,tailwind,bootstrap&theme=dark" alt="Tech Stack" />
+
+<h3 align="center">🔧 Tech Stack</h3> 
+<img src="https://skillicons.dev/icons?i=html,css,js,react,expressjs,nodejs,firebase,tailwind,mongodb&theme=dark" alt="Tech Stack" />
 
 **✨ Features:** Real-time meal planning, Membership tracking, Secure payments, Role-based dashboards
 
@@ -122,11 +123,11 @@
 
 ### 🌍 [Travel Recommendation Platform](https://b11-a11.netlify.app/)
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-4ECDC4?style=for-the-badge&logo=vercel&logoColor=white)](https://b11-a11.netlify.app/)  
+[![Live Demo](https://img.shields.io/badge/Live_Demo-4ECDC4?style=for-the-badge&logo=vercel&logoColor=white)](https://b11-a11.netlify.app/) &nbsp;&nbsp;
 [![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](#)
 
-**🔧 Tech Stack:**  
-<img src="https://skillicons.dev/icons?i=react,firebase,tailwind&theme=dark" alt="Tech Stack" />
+<h3 align="center">🔧 Tech Stack</h3> 
+<img src="https://skillicons.dev/icons?i=html,css,js,react,expressjs,nodejs,firebase,tailwind,mongodb&theme=dark" alt="Tech Stack" />
 
 **✨ Features:** Interactive travel queries, Personalized recommendations, Dynamic dashboards
 
@@ -134,11 +135,12 @@
 
 ### 🥗 [Restaurant Management App](https://whimsical-jelly-bedd51.netlify.app/)
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-FFE66D?style=for-the-badge&logo=vercel&logoColor=black)](https://whimsical-jelly-bedd51.netlify.app/)  
+[![Live Demo](https://img.shields.io/badge/Live_Demo-FFE66D?style=for-the-badge&logo=vercel&logoColor=black)](https://whimsical-jelly-bedd51.netlify.app/) &nbsp;&nbsp;
 [![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](#)
 
-**🔧 Tech Stack:**  
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb&theme=dark" alt="Tech Stack" />
+
+<h3 align="center">🔧 Tech Stack</h3> 
+<img src="https://skillicons.dev/icons?i=html,css,js,react,expressjs,nodejs,firebase,tailwind,mongodb&theme=dark" alt="Tech Stack" />
 
 **✨ Features:** Menu management, Customer reviews, Intuitive ordering system
 
