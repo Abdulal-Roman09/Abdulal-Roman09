@@ -40,7 +40,7 @@
 <div align="center">
 
 ### **Frontend Technologies**
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,firebase,tailwind,bootstrap&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,firebase,tailwind,bootstrap,mui,vite,framer&theme=dark" />
 
 ### **Backend Technologies**
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,typescript&theme=dark" />
@@ -74,30 +74,39 @@
 
 <div align="center">
 
-### 🏨 **[Hostel Management System](https://golden-pegasus-af7e4b.netlify.app/)**
-[![Hostel Management](https://img.shields.io/badge/Live_Demo-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://golden-pegasus-af7e4b.netlify.app/)
-[![GitHub](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](#)
+### 🏨 [Hostel Management System](https://golden-pegasus-af7e4b.netlify.app/)
 
-**🔧 Tech Stack:** React, Node.js, Express, MongoDB, Firebase Auth  
-**✨ Features:** Real-time meal planning, membership tracking, secure payments, role-based dashboards  
+[![Live Demo](https://img.shields.io/badge/Live_Demo-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://golden-pegasus-af7e4b.netlify.app/)  
+[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](#)
 
----
+**🔧 Tech Stack:**  
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,firebase,tailwind,bootstrap&theme=dark" alt="Tech Stack" />
 
-### 🌍 **[Travel Recommendation Platform](https://b11-a11.netlify.app/)**
-[![Travel Platform](https://img.shields.io/badge/Live_Demo-4ECDC4?style=for-the-badge&logo=vercel&logoColor=white)](https://b11-a11.netlify.app/)
-[![GitHub](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](#)
-
-**🔧 Tech Stack:** React, Firebase, Tailwind CSS  
-**✨ Features:** Interactive travel queries, personalized recommendations, dynamic dashboards  
+**✨ Features:** Real-time meal planning, Membership tracking, Secure payments, Role-based dashboards
 
 ---
 
-### 🥗 **[Restaurant Management App](https://whimsical-jelly-bedd51.netlify.app/)**
-[![Restaurant App](https://img.shields.io/badge/Live_Demo-FFE66D?style=for-the-badge&logo=vercel&logoColor=black)](https://whimsical-jelly-bedd51.netlify.app/)
-[![GitHub](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](#)
+### 🌍 [Travel Recommendation Platform](https://b11-a11.netlify.app/)
 
-**🔧 Tech Stack:** React, Node.js, Express, MongoDB  
-**✨ Features:** Menu management, customer reviews, intuitive ordering system  
+[![Live Demo](https://img.shields.io/badge/Live_Demo-4ECDC4?style=for-the-badge&logo=vercel&logoColor=white)](https://b11-a11.netlify.app/)  
+[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](#)
+
+**🔧 Tech Stack:**  
+<img src="https://skillicons.dev/icons?i=react,firebase,tailwind&theme=dark" alt="Tech Stack" />
+
+**✨ Features:** Interactive travel queries, Personalized recommendations, Dynamic dashboards
+
+---
+
+### 🥗 [Restaurant Management App](https://whimsical-jelly-bedd51.netlify.app/)
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-FFE66D?style=for-the-badge&logo=vercel&logoColor=black)](https://whimsical-jelly-bedd51.netlify.app/)  
+[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](#)
+
+**🔧 Tech Stack:**  
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb&theme=dark" alt="Tech Stack" />
+
+**✨ Features:** Menu management, Customer reviews, Intuitive ordering system
 
 </div>
 
@@ -123,6 +132,7 @@
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+  <br>
   
   **⭐ From [Abdul Al Roman](https://github.com/Abdulal-Roman09) with ❤️**
   
