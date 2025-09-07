@@ -1,112 +1,130 @@
+<!-- Profile Header with Animated Typing -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Abdul+Al+Roman!;MERN+Stack+Developer!;Welcome+to+my+Profile!;" />
+</h1>
 
-## 👨‍💻 About Me
-
+<!-- Animated Banner -->
 <p align="center">
-  <img
-    src="https://i.ibb.co/Y7HW00bD/wp8903933-mern-stack-wallpapers.jpg"
-    alt="GitHub Banner"
-  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Abdul%20Al%20Roman&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 </p>
 
-### 👋 Hi there, I'm Abdul Al Roman
-🎓 BSc in CSE | Faridpur Engineering College  
-🌱 Currently learning MERN Stack  
-💼 Looking to collaborate on real-world MERN projects  
-📫 Reach me at: [abdulal.roman09@gmail.com](mailto:abdulal.roman09@gmail.com)  
-📱 Phone: +8801843860436  
-🔗 LinkedIn: [Abdul Al Roman](https://www.linkedin.com/in/abdul-al-roman09/)
+<!-- Profile Views Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Abdulal-Roman09&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
-### 🔭 Current Activities
-- 🚀 Exploring Next.js
-- 🌍 Working on a tourism website
+---
 
-<h2>⚡ GitHub Stats ⚡</h2>
-<br />
+## 🚀 About Me
 
-<!-- Container for stats side by side -->
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+### 👨‍💻 **Full Stack Developer | MERN Enthusiast**
+
+🎓 **BSc in Computer Science & Engineering**  
+📍 **Faridpur Engineering College (Dhaka University Affiliated)**  
+🌱 **Currently mastering:** Next.js, TypeScript, and Advanced React Patterns  
+💼 **Open to:** Collaborating on innovative MERN stack projects  
+🎯 **Goal:** Building scalable web applications that make a difference  
+
+### 📫 **Let's Connect:**
+- 📧 **Email:** [abdulal.roman09@gmail.com](mailto:abdulal.roman09@gmail.com)  
+- 📱 **WhatsApp:** [Click Here](https://wa.me/8801843860436)  
+- 💼 **LinkedIn:** [Abdul Al Roman](https://www.linkedin.com/in/abdul-al-roman09/)  
+- 🌐 **Portfolio:** [abdulalroman.vercel.app](https://abdulalroman.vercel.app/)  
+
+---
+
+## 🛠️ **Tech Stack & Tools**
+
 <div align="center">
 
-  <!-- GitHub Streak -->
-  <a href="https://git.io/streak-stats">
-    <img
-      src="https://streak-stats.demolab.com/?user=Abdulal-Roman09&theme=dark"
-      width="450" 
-      height="550"
-      alt="GitHub Streak"
-      style="margin-right: 30px;"
-    />
-  </a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <!-- Top Languages -->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulal-Roman09&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5"
-      width="350"
-      height="400"
-      alt="Top Languages"
-    />
-  </a>
+### **Frontend Technologies**
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,firebase,tailwind,bootstrap&theme=dark" />
+
+### **Backend Technologies**
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,typescript&theme=dark" />
+
+### **Programming Languages**
+<img src="https://skillicons.dev/icons?i=c,cpp,java&theme=dark" />
+
+### **Tools & Platforms**
+<img src="https://skillicons.dev/icons?i=git,github,postman,figma&theme=dark" />
 
 </div>
 
+---
 
-<br />
+## 📊 **GitHub Analytics**
 
-<!-- Contribution Graph centered -->
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Abdulal-Roman09&theme=react-dark&bg_color=20232a&hide_border=true"
-    width="100%"
-    alt="GitHub Contribution Graph"
-  />
-</p>
+<div align="center">
+  
+### **📈 GitHub Statistics**
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulal-Roman09&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF"/>
+<img src="https://streak-stats.demolab.com/?user=Abdulal-Roman09&theme=tokyonight&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=FFFFFF" alt="GitHub Streak"/>
 
+### **📊 Contribution Graph**
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdulal-Roman09&custom_title=Abdul%20Al%20Roman's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=F8D866&line=F85D7F&point=FFFFFF&area_color=F85D7F&title_color=FFFFFF&area=true&hide_border=true" width="100%"/>
 
-## 🛠️ Things I Code With
-
-**Frontend:**  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square) ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat-square) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat-square) ![Material UI](https://img.shields.io/badge/-Material%20UI-0081CB?logo=mui&logoColor=white&style=flat-square) ![Shadcn UI](https://img.shields.io/badge/-Shadcn%20UI-7F56D9?logoColor=white&style=flat-square)![Axios](https://img.shields.io/badge/-Axios-671ddf?logo=axios&logoColor=white&style=flat-square)
-![React Router](https://img.shields.io/badge/-React%20Router-CA4245?logo=react-router&logoColor=white&style=flat-square)
-![React Query](https://img.shields.io/badge/-React%20Query-FF4154?logo=react-query&logoColor=white&style=flat-square)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=white&style=flat-square)
-![MUI](https://img.shields.io/badge/-Material%20UI-007FFF?logo=mui&logoColor=white&style=flat-square)
-![DaisyUI](https://img.shields.io/badge/-DaisyUI-5A0EF8?logoColor=white&style=flat-square)
-
-
-**Backend:**  <br>
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square) ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat-square) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat-square) ![JWT](https://img.shields.io/badge/-JWT-black?logo=jsonwebtokens&logoColor=white&style=flat-square) ![Mongoose](https://img.shields.io/badge/-Mongoose-C71A36?logo=mongoose&logoColor=white&style=flat-square) ![REST API](https://img.shields.io/badge/-REST%20API-61DAFB?logo=web&logoColor=white&style=flat-square) 
-
-
-**Languages & Others:**  
-![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white&style=flat-square) ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat-square) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square) ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat-square) 
-
-
-
-**Tools & Platforms:**  
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat-square) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat-square) ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify&logoColor=white&style=flat-square) ![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white&style=flat-square) ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat-square)
+</div>
 
 ---
 
-## 📌 Featured Projects
+## 🌟 **Featured Projects**
 
-### 🏨 [Hostel Management App](https://golden-pegasus-af7e4b.netlify.app/)  
-A comprehensive hostel management system for meal planning, membership tracking, and payments. Features real-time updates, secure payment integration, and role-based dashboards.
+<div align="center">
 
-### 🌍 [Product Recommendation Site](https://b11-a11.netlify.app/)  
-Interactive React-based travel platform with query posting, personalized recommendations, dynamic dashboards, and secure Firebase authentication.
+### 🏨 **[Hostel Management System](https://golden-pegasus-af7e4b.netlify.app/)**
+[![Hostel Management](https://img.shields.io/badge/Live_Demo-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://golden-pegasus-af7e4b.netlify.app/)
+[![GitHub](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](#)
 
-### 🥗 [Salad Restaurant App Client](https://whimsical-jelly-bedd51.netlify.app/)  
-Modern restaurant blog & ordering platform built with Node.js, Express, and MongoDB. Features menu management, customer reviews, and intuitive ordering system.
+**🔧 Tech Stack:** React, Node.js, Express, MongoDB, Firebase Auth  
+**✨ Features:** Real-time meal planning, membership tracking, secure payments, role-based dashboards  
 
 ---
 
-### 🤝 Let's Connect
+### 🌍 **[Travel Recommendation Platform](https://b11-a11.netlify.app/)**
+[![Travel Platform](https://img.shields.io/badge/Live_Demo-4ECDC4?style=for-the-badge&logo=vercel&logoColor=white)](https://b11-a11.netlify.app/)
+[![GitHub](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](#)
 
-<p>
-  <a href="mailto:abdulal.roman09@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/abdul-al-roman09/" target="_blank" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://abdulalroman.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://wa.me/8801843860436">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-</p>
+**🔧 Tech Stack:** React, Firebase, Tailwind CSS  
+**✨ Features:** Interactive travel queries, personalized recommendations, dynamic dashboards  
+
+---
+
+### 🥗 **[Restaurant Management App](https://whimsical-jelly-bedd51.netlify.app/)**
+[![Restaurant App](https://img.shields.io/badge/Live_Demo-FFE66D?style=for-the-badge&logo=vercel&logoColor=black)](https://whimsical-jelly-bedd51.netlify.app/)
+[![GitHub](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](#)
+
+**🔧 Tech Stack:** React, Node.js, Express, MongoDB  
+**✨ Features:** Menu management, customer reviews, intuitive ordering system  
+
+</div>
+
+---
+## 🤝 **Let's Connect & Collaborate**
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdulal.roman09@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-al-roman09/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://abdulalroman.vercel.app/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801843860436)
+
+### **💡 Open to:**
+- 🚀 **Freelance Projects**
+- 🤝 **Open Source Contributions**
+- 💼 **Full-time Opportunities**
+- 🎓 **Mentoring & Learning**
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+  
+  **⭐ From [Abdul Al Roman](https://github.com/Abdulal-Roman09) with ❤️**
+  
+  *"Code is like humor. When you have to explain it, it's bad." – Cory House*
+</div>
