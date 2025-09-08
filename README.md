@@ -95,13 +95,22 @@
 <div align="center">
   
 <h2 align="center">📈 GitHub Statistics</h2>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulal-Roman09&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF"/>
-<img src="https://streak-stats.demolab.com/?user=Abdulal-Roman09&theme=tokyonight&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=FFFFFF" alt="GitHub Streak"/>
 
-<h2 align="center">📊 Contribution Graph</h2>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdulal-Roman09&custom_title=Abdul%20Al%20Roman's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=F8D866&line=F85D7F&point=FFFFFF&area_color=F85D7F&title_color=FFFFFF&area=true&hide_border=true" width="100%"/>
+<p align="center">
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=Abdulal-Roman09&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
+</p>
+
+
+
 
 </div>
+<br>
+<div align="center">
+  <h2>📊 Most Used Languages</h2>
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulal-Roman09&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117&title_color=FF1CF7&text_color=FFFFFF"/>
+</div>
+
+
 
 ---
 <h2 align="center">🌟 Featured Projects</h2>
