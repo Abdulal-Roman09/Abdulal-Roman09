@@ -100,8 +100,10 @@
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=Abdulal-Roman09&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
 </p>
 
-
-
+<h2 align="center">📊 Contribution Graph</h2>
+<img 
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Abdulal-Roman09&custom_title=Abdul%20Al%20Roman's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=00F0FF&line=FF1CF7&point=FFFFFF&area_color=FF1CF7&title_color=00F0FF&area=true&hide_border=true" 
+  width="100%"/>
 
 </div>
 <br>
@@ -130,7 +132,7 @@
 
 ---
 
-### 🌍 [Travel Recommendation Platform](https://b11-a11.netlify.app/)
+### 🌍 [Recommendation Platform](https://b11-a11.netlify.app/)
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-4ECDC4?style=for-the-badge&logo=vercel&logoColor=white)](https://b11-a11.netlify.app/) &nbsp;&nbsp;
 [![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](#)
