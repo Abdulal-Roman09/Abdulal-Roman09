@@ -18,7 +18,7 @@
   <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 </p>
 
-### 👨‍💻 Full Stack Developer | MERN Enthusiast
+### 👨‍💻 Full Stack Developer | MERN Enthusiast | Backend Developer
 
 * 🎓 **BSc in Computer Science & Engineering**
 * 📍 **Faridpur Engineering College (Dhaka University Affiliated)**
